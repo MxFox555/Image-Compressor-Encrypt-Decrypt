@@ -22,11 +22,11 @@ The encryption side is on the left and consists of:
 
 The decryption side is on the right and consists of:
 
-> A text file location button
-  > Used to located a text file with the image data
-> A read text file button
-  > To read the located text file
-> A read text button
-  > slightly different from the read text file button as this reads the text directly from the box
-> A save text button
-  > if the text was generated and you wanted to save the text
+- A text file location button
+  - Used to located a text file with the image data
+- A read text file button
+  - To read the located text file
+- A read text button
+  - slightly different from the read text file button as this reads the text directly from the box
+- A save text button
+  - if the text was generated and you wanted to save the text
