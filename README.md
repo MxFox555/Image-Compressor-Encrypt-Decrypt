@@ -9,14 +9,14 @@ This program consists of two main sides:
 
 The encryption side is on the left and consists of:
 
-> An image location button
-  > Used to locate where on your hard drive the image is
-> An image read button
-  > Reads the image following the parameters (Compressed and/or with key)
-> A compress feature
-  > Physically compresses the image
-> And a key across the border
-  > The key used to decrypt the image
+- An image location button
+  - Used to locate where on your hard drive the image is
+- An image read button
+  - Reads the image following the parameters (Compressed and/or with key)
+- A compress feature
+  - Physically compresses the image
+- And a key across the border
+  - The key used to decrypt the image
 
 ### Decrypt
 
