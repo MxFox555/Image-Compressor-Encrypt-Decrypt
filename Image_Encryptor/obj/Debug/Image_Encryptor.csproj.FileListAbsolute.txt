@@ -1,0 +1,20 @@
+C:\Users\Millen-B\Desktop\Code\SOMETHINGAWESOME\Final Program\Image_Encryptor\Image_Encryptor\bin\Debug\Image_Encryptor.exe.config
+C:\Users\Millen-B\Desktop\Code\SOMETHINGAWESOME\Final Program\Image_Encryptor\Image_Encryptor\bin\Debug\Image_Encryptor.exe
+C:\Users\Millen-B\Desktop\Code\SOMETHINGAWESOME\Final Program\Image_Encryptor\Image_Encryptor\bin\Debug\Image_Encryptor.pdb
+C:\Users\Millen-B\Desktop\Code\SOMETHINGAWESOME\Final Program\Image_Encryptor\Image_Encryptor\obj\Debug\Image_Encryptor.csprojAssemblyReference.cache
+C:\Users\Millen-B\Desktop\Code\SOMETHINGAWESOME\Final Program\Image_Encryptor\Image_Encryptor\obj\Debug\Image_Encryptor.Image_Encryptor.resources
+C:\Users\Millen-B\Desktop\Code\SOMETHINGAWESOME\Final Program\Image_Encryptor\Image_Encryptor\obj\Debug\Image_Encryptor.Properties.Resources.resources
+C:\Users\Millen-B\Desktop\Code\SOMETHINGAWESOME\Final Program\Image_Encryptor\Image_Encryptor\obj\Debug\Image_Encryptor.csproj.GenerateResource.cache
+C:\Users\Millen-B\Desktop\Code\SOMETHINGAWESOME\Final Program\Image_Encryptor\Image_Encryptor\obj\Debug\Image_Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\Millen-B\Desktop\Code\SOMETHINGAWESOME\Final Program\Image_Encryptor\Image_Encryptor\obj\Debug\Image_Encryptor.exe
+C:\Users\Millen-B\Desktop\Code\SOMETHINGAWESOME\Final Program\Image_Encryptor\Image_Encryptor\obj\Debug\Image_Encryptor.pdb
+Z:\Image_Encryptor\Image_Encryptor\bin\Debug\Image_Encryptor.exe.config
+Z:\Image_Encryptor\Image_Encryptor\bin\Debug\Image_Encryptor.exe
+Z:\Image_Encryptor\Image_Encryptor\bin\Debug\Image_Encryptor.pdb
+Z:\Image_Encryptor\Image_Encryptor\obj\Debug\Image_Encryptor.csprojAssemblyReference.cache
+Z:\Image_Encryptor\Image_Encryptor\obj\Debug\Image_Encryptor.Image_Encryptor.resources
+Z:\Image_Encryptor\Image_Encryptor\obj\Debug\Image_Encryptor.Properties.Resources.resources
+Z:\Image_Encryptor\Image_Encryptor\obj\Debug\Image_Encryptor.csproj.GenerateResource.cache
+Z:\Image_Encryptor\Image_Encryptor\obj\Debug\Image_Encryptor.csproj.CoreCompileInputs.cache
+Z:\Image_Encryptor\Image_Encryptor\obj\Debug\Image_Encryptor.exe
+Z:\Image_Encryptor\Image_Encryptor\obj\Debug\Image_Encryptor.pdb
