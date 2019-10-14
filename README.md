@@ -30,3 +30,6 @@ The decryption side is on the right and consists of:
   - slightly different from the read text file button as this reads the text directly from the box
 - A save text button
   - if the text was generated and you wanted to save the text
+
+
+This program is only able to read BMP images, so you may have to convert
